@@ -37,8 +37,13 @@ Run:
 
 Once complete all the above steps, click below to see your app locally
 
-[View your app]('http://localhost:8080') 
+[View your app](http://localhost:8080) 
+
+
+Further Development:
+Make sure you refer to Google Calendar API: [link](https://developers.google.com/calendar/v3/reference/) to know how to utilize their API.
 
 
 Note: If you're experiencing some issues. Make sure that your ``` redirect_url``` is equal to ``` http://localhost:8080/getcode``` when you're getting your ```client_id``` and ```client_secret```;
+
 
