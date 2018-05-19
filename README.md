@@ -39,3 +39,6 @@ Once complete all the above steps, click below to see your app locally
 
 [View your app]('http://localhost:8080') 
 
+
+Note: If you're experiencing some issues. Make sure that your ``` redirect_url``` is equal to ``` http://localhost:8080/getcode``` when you're getting your ```client_id``` and ```client_secret```;
+
